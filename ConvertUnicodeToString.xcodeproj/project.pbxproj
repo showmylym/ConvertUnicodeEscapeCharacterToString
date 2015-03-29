@@ -395,6 +395,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ConvertUnicodeToString/ConvertUnicodeToString-Prefix.pch";
 				INFOPLIST_FILE = "ConvertUnicodeToString/ConvertUnicodeToString-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -408,6 +409,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ConvertUnicodeToString/ConvertUnicodeToString-Prefix.pch";
 				INFOPLIST_FILE = "ConvertUnicodeToString/ConvertUnicodeToString-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -472,6 +474,7 @@
 				6734ECEA1904F2D5008EB3A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6734ECEB1904F2D5008EB3A2 /* Build configuration list for PBXNativeTarget "ConvertUnicodeToStringTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +483,7 @@
 				6734ECED1904F2D5008EB3A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

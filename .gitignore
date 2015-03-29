@@ -1,0 +1,10 @@
+
+*.xccheckout
+
+*.xcuserstate
+
+*.xcscheme
+
+ConvertUnicodeToString.xcodeproj/xcuserdata/jerrylei.xcuserdatad/xcschemes/xcschememanagement.plist
+
+ConvertUnicodeToString.xcodeproj/xcuserdata/leiyiming.xcuserdatad/xcschemes/xcschememanagement.plist
